@@ -46,3 +46,13 @@ header nav .row > *{
     background-color: var(--secondary);
 }
 /* /MAIN */
+
+
+/* FOOTER */
+#info{
+    background-color: var(--primary);
+}
+#copyright{
+    background-color: var(--primary-dark);
+}
+/* /FOOTER */
