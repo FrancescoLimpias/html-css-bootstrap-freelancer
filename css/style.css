@@ -37,3 +37,12 @@ header nav .row > *{
 }
 
 /* /HEADER */
+
+
+/* MAIN */
+
+/* About */
+#about{
+    background-color: var(--secondary);
+}
+/* /MAIN */
