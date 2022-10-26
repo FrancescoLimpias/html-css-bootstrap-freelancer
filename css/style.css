@@ -1,0 +1,38 @@
+:root{
+
+    /* Color Palette */
+    --primary: #3a546d;
+    --primary-dark: #2c3e50;
+    --secondary: #1abc9c;
+    --accent: #1abc9c;
+
+}
+
+/* COMMON */
+.white_font{
+    color: white;
+}
+
+
+/* HEADER */
+
+/* Nav */
+header nav{
+    background-color: var(--primary-dark);
+}
+header nav .row > *{
+    display: flex;
+    justify-content: center;
+}
+
+/* Jumbotron */
+#jumbotron{
+    background-color: var(--accent);
+}
+#jumbotron img{
+    --img-side: 200px;
+    width: var(--img-side);
+    height: var(--img-side);
+}
+
+/* /HEADER */
