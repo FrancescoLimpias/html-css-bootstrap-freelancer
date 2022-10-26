@@ -19,6 +19,7 @@
 /* Nav */
 header nav{
     background-color: var(--primary-dark);
+    height: 3rem;
 }
 header nav .row > *{
     display: flex;
